@@ -1,0 +1,6 @@
+# how to create a calander in python
+import calendar
+year = 2022      #year
+month = 11       # months
+#display the calendar
+print(calendar.month(year, month))
